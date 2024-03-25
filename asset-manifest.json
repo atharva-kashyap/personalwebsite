@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.a64fd883.css",
+    "main.js": "/personalwebsite/static/js/main.b34e5ef2.js",
+    "static/js/453.55c3503c.chunk.js": "/personalwebsite/static/js/453.55c3503c.chunk.js",
+    "static/media/Atharva.svg": "/personalwebsite/static/media/Atharva.1779d3dce581d5cdd5c5598cece0788c.svg",
+    "index.html": "/personalwebsite/index.html",
+    "main.a64fd883.css.map": "/personalwebsite/static/css/main.a64fd883.css.map",
+    "main.b34e5ef2.js.map": "/personalwebsite/static/js/main.b34e5ef2.js.map",
+    "453.55c3503c.chunk.js.map": "/personalwebsite/static/js/453.55c3503c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64fd883.css",
+    "static/js/main.b34e5ef2.js"
+  ]
+}
