@@ -26,7 +26,7 @@ function App() {
 
       <div className="right-column">
         <AnimatedText />
-        <p>I am an incoming first-year <strong>___</strong> Ph.D. student at ___, advised by Prof. ___ and graciously supported by ___. My research interests broadly lie in Human-Robot Interaction, Assistive Robotics, and Robot Learning.</p>
+        <p>I am an incoming first-year <strong>Robotics</strong> Ph.D. student at the <a href="">University of Michigan</a>, Ann Arbor, advised by Prof. <a href="https://patricialvesoliveira.com/">Patricia Alves-Oliveira</a>. My research interests broadly lie in Human-Robot Interaction, Assistive Robotics, and Robot Learning.</p>
 
         <p>I completed my bachelor's degree in <strong>Computer Science</strong> from the <a href="https://www.cs.washington.edu/">Paul G. Allen School of Computer Science & Engineering</a> at the <a href='http://www.washington.edu/'>University of Washington</a>, Seattle. I also minored in <strong>Applied Mathematics</strong> and <strong>Education, Learning & Societies</strong>.</p>
 
